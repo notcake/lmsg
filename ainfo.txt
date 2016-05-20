@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"        "LMsg"
+	"version"     "None"
+	"author_name" "!cake"
+	"author_url"  ""
+	"info"        "Lua-run, e2-assisted systems."
+	"override"    "0"
+}
